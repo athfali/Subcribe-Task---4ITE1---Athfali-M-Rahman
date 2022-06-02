@@ -13,7 +13,7 @@ class Email extends BaseController
     }
 
     public function index() {
-        return view('emails/index');   
+        return view('index');   
     }
 
     public function create($id=null)

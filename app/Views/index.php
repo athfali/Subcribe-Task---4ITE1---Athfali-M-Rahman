@@ -23,7 +23,7 @@
                             <br>
                             <div class="col"><input class="form-control" name="name" type="text" placeholder="Enter name..." data-sb-validations="required,name" /></div>
                             <br>
-                            <div class="col-auto"><button class="btn btn-primary " id="submitButton" type="submit">Subcribe</button></div>
+                            <div class="col-auto"><button class="btn btn-primary " id="submitButton" type="submit">Notify Me!</button></div>
                         </form>
                     </div>
                 </div>
@@ -64,6 +64,11 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </section>
